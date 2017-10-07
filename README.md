@@ -1,2 +1,2 @@
 # PowerShell
-Safekeeping of common powershell scrips used
+Safe keeping of common powershell scrips used in our MSP
